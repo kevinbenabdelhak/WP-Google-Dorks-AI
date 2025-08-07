@@ -5,7 +5,7 @@
 **Requires at least:** 5.0  
 **Tested up to:** 6.5.3  
 **Requires PHP:** 7.0  
-**Stable tag:** 1.1   
+**Stable tag:** 1.2      
 **License:** GPLv2 or later  
 **License URI:** [GPL License](https://www.gnu.org/licenses/gpl-2.0.html)  
 
@@ -58,6 +58,9 @@ Oui, vous aurez besoin d'une clé API OpenAI pour utiliser les fonctionnalités 
 Pour toute question ou demande de support, rendez-vous sur [le site de support](https://kevin-benabdelhak.fr/contact/).
 
 ## Changelog
+
+### 1.2
+* Ajout de gpt-5-mini, gpt-5-nano
 
 ### 1.1
 * Ajout de gpt-5
