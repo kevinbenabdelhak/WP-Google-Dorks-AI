@@ -43,6 +43,7 @@ function wp_gdai_options_page() {
             <br><br>
             <label for="openai_model">Modèle OpenAI :</label>
             <select name="openai_model" id="openai_model">
+                <option value="gpt-5" <?php selected($model, 'gpt-5'); ?>>gpt-5</option>
                 <option value="gpt-4.1-mini" <?php selected($model, 'gpt-4.1-mini'); ?>>gpt-4.1-mini</option>
                 <option value="gpt-4.1-nano" <?php selected($model, 'gpt-4.1-nano'); ?>>gpt-4.1-nano</option>
                 <option value="gpt-4.1" <?php selected($model, 'gpt-4.1'); ?>>gpt-4.1</option>

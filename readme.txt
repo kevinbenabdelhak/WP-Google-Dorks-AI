@@ -4,7 +4,7 @@ Tags: google, dorks, SEO, optimisation, API, OpenAI
 Requires at least: 5.0
 Tested up to: 6.5.3
 Requires PHP: 7.0
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -51,7 +51,10 @@ Oui, vous aurez besoin d'une clé API OpenAI pour utiliser les fonctionnalités 
 
 Pour toute question ou demande de support, rendez-vous sur <https://kevin-benabdelhak.fr/contact/>
 
-== Changelog ==
+== MAJ ==
+
+= 1.1 =
+* Ajout de gpt-5
 
 = 1.0 =
 * Génération automatique de Google Dorks basés sur le contenu de l'article.
