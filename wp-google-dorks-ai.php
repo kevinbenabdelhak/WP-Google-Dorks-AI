@@ -3,7 +3,7 @@
  * Plugin Name: WP Google Dorks AI
  * Plugin URI: https://kevin-benabdelhak.fr/plugins/wp-google-dorks-ai/
  * Description: WP Google Dorks AI est un plugin WordPress innovant qui facilite la génération de requêtes Google Dork pour optimiser vos recherches en ligne. Grâce à l'intégration de l'API OpenAI, ce plugin permet de créer facilement des requêtes adaptées à votre contenu en quelques clics.
- * Version: 1.1
+ * Version: 1.2
  * Author: Kevin Benabdelhak
  * Author URI: https://kevin-benabdelhak.fr/
  * Contributors: kevinbenabdelhak
